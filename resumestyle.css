@@ -1,0 +1,107 @@
+html{
+background-image: url('PAT-0097-WALP-WP-1_2048x.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+position:relative;
+height:1030px;
+}
+
+body{
+margin:20px 20px 20px 20px;
+background-attachment:scroll;
+}
+
+#hd{
+padding:20px 20px 20px 20px;
+margin:20px 20px 20px 20px;
+background-color: ;
+font-family: georgia 'times';
+}
+
+#lnav{
+background-color: white;
+opacity:0.9;
+border: 1px solid black;
+margin:10px 10px 10px 10px;
+padding:10px 10px 10px 10px;
+width:150px;
+height:80%;
+float:left;
+}
+
+ #rnav{
+background-color: white;
+opacity:0.9;
+border: 1px white;
+margin:10px 10px 10px 5px;
+padding:10px 10px 10px 10px;
+width:150px;
+height:80%;
+float:right;
+}
+
+#bd{
+background-color: white;
+opacity:0.9;
+border: 1px solid black;
+margin:10px 5px 10px 10px;
+padding:10px 10px 10px 10px;
+width:850px;
+height:80%;
+float:left;
+overflow:scroll; 
+}
+
+#ft{
+padding:10px 10px 10px 10px;
+margin:10px 10px 10px 10px;
+background-color: white;
+border: 1px solid black;
+font-family: sans-serif 'times';
+float:left;
+width:1250px;
+}
+
+div.position{
+position:relative;
+top:-35px;
+left:-600px;
+}
+
+ul.hlist{
+color:white;
+position:relative;
+text-align:center;
+top:-20px;
+left:600px;
+}
+
+.hlist li{
+text-align:left;
+postiton:relative;
+display:inline;
+margin:0px 10px 0px 10px;
+
+}
+
+
+a:link { 
+font-family: Sans-serif Arial;
+font-size: 20px;
+color: navy blue;
+}
+
+a:hover{
+font-family: Sans-serif 'Helvetica';
+color: black;
+font-size: 20px;
+}
+
+a:visted{
+font-family: Arial 'Helvetica';
+color: red;
+font:size: 15px;
+}
+
+
+
